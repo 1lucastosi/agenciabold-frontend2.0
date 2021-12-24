@@ -1,3 +1,5 @@
 # AgênciaBold
 
-### Projeto de uma página web de uma empresa fictícia responsiva feita na curso Front-End 2.0 da Danki Code!
+### Web responsive page project for a fictitious  agency made in Danki Code Front-End 2.0 course!
+
+Final Result 😄 :
